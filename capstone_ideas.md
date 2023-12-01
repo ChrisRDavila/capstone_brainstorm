@@ -1,0 +1,8 @@
+# For Link to draw.io page in the Brainstorm diagram.png file please click below:
+
+[capstone_brainstorm](https://app.diagrams.net/#G1OuBR7T3t50vLXoHOc4x3_POS3bgzTa-I)
+
+### Top Candidates for Capstone project:
+
+# 1. Ross -> Work -> Portfolio:
+_I think this would be a great way to explore new languages and libraries with something that is conceptually simple but has a lot of options to expand on and improve even after the projects are showcased and my coding skills improve.  A good portfolio will showcase my skills via my favorite projects and through the portfolio itself. This in itself is a step above jsut a git hub repository and may possiibly give me an edge in what is becoming a very competitive market. It is not just a fun project to deploy and figure out but will be a great learning experience in the process of development.  Although the concept itself is not the most creative idea for a capstone, the technologies and style of the portfolio itself will be what makes this project sing and could possibly work in my favor as far as finding employment.  I am still in the process of researching which languages will work best, examples of great portfolios and what tech would is currently used and preffered in the industry based on what jobs I will be seeking I have some ideas as to what direction i would like to go.  For the frontend I would like to build the program with React using either Vite or Next.js to get started. Vite seems to lend itself more to vanilla js and may be easier to work with but I would really like to figure out how to use Next.js, as I hear it is favored heavily in the idustry for and I have seen it mentioned in several job postings_

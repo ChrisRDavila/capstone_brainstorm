@@ -24,4 +24,4 @@
 * _screen shot is of poor quality but basically to just show full connected diagram on one page_
 
 ## License
-[MIT](https://yourlicesnepage)
+[MIT](https://github.com/ChrisRDavila/capstone_brainstorm/blob/main/LICENSE.txt)

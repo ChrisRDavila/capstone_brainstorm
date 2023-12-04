@@ -1,6 +1,6 @@
 # For Link to draw.io page in the Brainstorm diagram.png file please click below:
 
-[capstone_brainstorm](https://app.diagrams.net/#G1OuBR7T3t50vLXoHOc4x3_POS3bgzTa-I)
+[capstone_brainstorm](https://drive.google.com/file/d/1OuBR7T3t50vLXoHOc4x3_POS3bgzTa-I/view?usp=sharing)
 
 ### Top Candidates for Capstone project:
 
